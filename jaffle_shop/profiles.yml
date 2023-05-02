@@ -22,7 +22,7 @@ jaffle_shop:
       server: 192.168.2.118
       port: 1433
       database: DataTeam_test
-      schema: dbo
+      schema: dbt_jaffle_shop
       user: allen.tsai
       password: IT@123456789
       encrypt: false
